@@ -3,7 +3,7 @@
 ![Gluten Status](https://img.shields.io/badge/Gluten-Free-green.svg)
 ![Eco Status](https://img.shields.io/badge/ECO-Friendly-green.svg)
 
-# Cristino portfolio
+# Mergaite
 
 _33 group website project_
 
@@ -23,4 +23,4 @@ Design: [Girl]https://shreethemes.in/cristino/layouts/index.html
 
 ## Authors
 
-Alina: [Github](https://github.com/belauzas)
+Alina: [Github](https://github.com/Mandrijauskaite/3-mergaite)

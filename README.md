@@ -9,9 +9,9 @@ _33 group website project_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: https://front-end-by-rimantas.github.io/33-grupe-mergaite/
+Site published at: https://github.com/Mandrijauskaite/3-mergaite
 
-Design: [Girl]https://shreethemes.in/cristino/layouts/index.html
+Design: [Girl]( https://cdn.discordapp.com/attachments/850245533838868480/850246211415834634/unknown.png)
 
 ## Project features
 

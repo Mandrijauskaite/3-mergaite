@@ -1,6 +1,7 @@
 body{
     margin: 0;
     background-color: #f8f8f8;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 header {
@@ -8,12 +9,11 @@ header {
     float: left;
     margin-top: 30px;
     margin-left: cals(50% - 500px);
-    background-color: yellow;
 }
 
 header . img {
     float: left;
-    /* width: 150px; */
+    width: 150px;
     height: 60px;
     object-fit: contain;
     background-color: blue;
@@ -21,21 +21,22 @@ header . img {
 
 nav {
     float: right;
+    margin-top: 11px;
 }
 
 nav > a {
     float: left;
     padding: 5px;
-    padding-left: 20px;
-    padding-right: 20px;
-    border-width: 5px;
-    border-style: solid;
-    border-color: transparent;
-    border-color: blue;
+    padding-left: 15px;
+    padding-right: 15px;
+    line-height: 20px;
+    color: #555;
+    border: 5px solid transparent;
+    border-radius: 19px;
 }
 nav > a:last-child {
     margin-left: 15px;
-    border-color: red;
+    border: color #777;
 } 
 
 main {
